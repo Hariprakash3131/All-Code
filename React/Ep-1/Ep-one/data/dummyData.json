@@ -1,0 +1,28 @@
+{
+"courses":[
+        {
+            "id":1,
+            "name":"HTML",
+           "price":200,
+           "img":"http://localhost:3000/Html.jpg"
+        },
+        {
+            "id":2,
+            "name":"CSS",
+           "price":100,
+           "img":"http://localhost:3000/css.jpeg"
+        },
+         {
+            "id":3,
+            "name":"JS",
+           "price":1100,
+           "img":"http://localhost:3000/js.png"
+        },
+        {
+            "id":4,
+            "name":"REACT",
+           "price":12100,
+           "img":"http://localhost:3000/Html.jpg"
+        }
+    ]
+}
